@@ -1,9 +1,4 @@
-# Repo to learn Docker with examples. Contributions are most welcome.
-
-## If you found this repo useful, give it a STAR 🌠
-
-You can watch the video version of this repo on my youtube channel -> https://www.youtube.com/@AbhishekVeeramalla
-
+# To learn Docker with examples
 
 ## What is a container ?
 
@@ -21,13 +16,16 @@ A container is a bundle of Application, Application libraries required to run yo
 
 Containers and virtual machines are both technologies used to isolate applications and their dependencies, but they have some key differences:
 
-    1. Resource Utilization: Containers share the host operating system kernel, making them lighter and faster than VMs. VMs have a full-fledged OS and hypervisor, making them more resource-intensive.
+    1. Resource Utilization: Containers share the host operating system kernel, making them lighter and faster than VMs. VMs have a 
+       full-fledged OS and hypervisor, making them more resource-intensive.
 
-    2. Portability: Containers are designed to be portable and can run on any system with a compatible host operating system. VMs are less portable as they need a compatible hypervisor to run.
+    2. Portability: Containers are designed to be portable and can run on any system with a compatible host operating system. VMs are 
+       less portable as they need a compatible hypervisor to run.
 
-    3. Security: VMs provide a higher level of security as each VM has its own operating system and can be isolated from the host and other VMs. Containers provide less isolation, as they share the host operating system.
-
-   4.  Management: Managing containers is typically easier than managing VMs, as containers are designed to be lightweight and fast-moving.
+    3. Security: VMs provide a higher level of security as each VM has its own operating system and can be isolated from the host and 
+       other VMs. Containers provide less isolation, as they share the host operating system.
+    
+    4. Management: Managing containers is typically easier than VMs,as containers are designed to be lightweight and fast-moving
 
 
 
