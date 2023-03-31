@@ -323,9 +323,9 @@ Output
 
 ```
 REPOSITORY                         TAG       IMAGE ID       CREATED          SIZE
-revanth13/my-first-docker-image    latest    960d37536dcd   26 seconds ago   467MB
-ubuntu                             latest    58db3edaf2be   13 days ago      77.8MB
-hello-world                        latest    feb5d9fea6a5   16 months ago    13.3kB
+revanth13/my-first-docker-image    latest    8c8ceefd4919   26 seconds ago   467MB
+ubuntu                             latest    08d22c0ceb15   3 weeks ago      77.8MB
+hello-world                        latest    feb5d9fea6a5   18 months ago    13.3kB
 ```
 
 ### Run your First Docker Container
